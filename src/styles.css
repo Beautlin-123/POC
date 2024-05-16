@@ -1,0 +1,53 @@
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom CSS */
+/* .custom-button {
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.custom-button:hover {
+  background-color: #cc5500;
+}
+.button-order{
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .button-order:hover {
+    background-color:green;
+  }
+  .button-submit{
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .button-submit:hover {
+    background-color:red;
+  }
+  .button-sign{
+    background-color:black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .button-sign:hover {
+    background-color:black;
+  }
+   */
+  
+  
